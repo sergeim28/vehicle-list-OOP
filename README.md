@@ -1,4 +1,5 @@
 * This app purely focuses on OOP design pattern rather than its styling and view, so its look is bad. We can make this app looks better by giving more styles, and also using CSS module or CSS-in-JSS library.
+* From the screenshot, I've noticed that adding a new field requires two parameters (`name` and `type`), but for now, I've just placed one input field for `name` for the limited time of test. I hope it does not ruin the review.
 
 # How to run
 - `npm install`
