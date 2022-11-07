@@ -1,9 +1,14 @@
+* This app purely focuses on OOP design pattern rather than its styling and view, so its look is bad. We can make this app looks better by giving more styles, and also using CSS module or CSS-in-JSS library.
+
 # How to run
 - `npm install`
 - `npm run start`
 
 # How this app works
-This is the SPA that uses React, TypeScript and is based on OOP.
+This is the SPA that uses `React`, `TypeScript` and is based on `OOP`.
+
+
+
 
 ### Data layer : `src/data`
 - `src/data/base.ts`: Data repository abstract base class
